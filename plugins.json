@@ -1,0 +1,17 @@
+﻿{
+ "increment": false,
+ "limit": true,
+ "check-authors": false,
+ "check-comments": false,
+ "smart-tags": false,
+ "tool1CD": false,
+ "unpackForm": false,
+ "disable-support": false,
+ "sync-remote": false,
+ "edtExport": true,
+ "replace-authors": true,
+ "use-ibcmd": false,
+ "drop-config-dump": false,
+ "drop-support": false,
+ "roboCopy": false
+}
